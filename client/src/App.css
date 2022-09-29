@@ -1,0 +1,57 @@
+h1{
+    text-align: center;
+} 
+
+td{
+    text-align: center;
+    margin: 10%;
+}
+
+tr{
+    text-align: center;
+    margin: 10%;
+}
+li{
+    text-align: left;
+}
+
+h1{
+    color: white;
+    font-size: 225%;
+    font-weight: bolder;
+}
+
+h2{
+    color: black;
+    font-size: 175%;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 10ex;
+    padding-bottom: 3ex;
+}
+
+h3{
+    color: black;
+    font-size: 120%;
+    font-weight: bolder;
+    text-align: center;
+}
+
+h4{
+    color: black;
+    font-size: 100%;
+    font-weight: bold;
+    padding-bottom: 1ex;
+    text-align: right;
+}
+
+.spin-load {
+    position: fixed;
+    margin: auto;
+    height: 5rem!important;
+    width: 5rem!important;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    top: 0;
+}
